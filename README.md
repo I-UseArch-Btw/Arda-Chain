@@ -1,5 +1,3 @@
-This project has been done thanks to the help of David Joseph Katz at Udemy 
-
 Some of the main highlights:
 
     Build a Blockchain in the object-oriented programming style.
@@ -81,6 +79,8 @@ Main skills that I obtained at this project
 - Creating projects using NodeJS
 
 - Creating a p2p server
+
+This project has been done thanks to the help of David Joseph Katz at Udemy 
 
 - Creating simple API's
 
