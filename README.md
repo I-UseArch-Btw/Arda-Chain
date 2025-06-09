@@ -80,10 +80,11 @@ Main skills that I obtained at this project
 
 - Creating a p2p server
 
-This project has been done thanks to the help of David Joseph Katz at Udemy 
-
 - Creating simple API's
 
 - Creating unit tests using Jasmine
 
 - A deep understanding of how blockchains work
+
+
+This project has been done thanks to the help of David Joseph Katz at Udemy 
